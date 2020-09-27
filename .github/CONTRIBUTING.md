@@ -12,3 +12,5 @@ Please use the issue template.  Do not forget to describe how to reproduce the i
 
 Please use the pull request template.
 
+Sound good?
+
